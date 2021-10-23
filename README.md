@@ -20,7 +20,7 @@ The script trains and evaluates TabNet, Random Forest and MLP on all possible co
 ### Contributors to the code/project (random order)
 1. Mikhail Dmitrienko
 2. Sheshank Shankar
-3. Saurav Prakash
+3. Soham Dasgupta
 4. Ishaan Singh
 5. Rohan Sukumaran
 6. Abhishek Singh
