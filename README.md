@@ -16,3 +16,12 @@ Run the container
 The dataset folder should contain your target dataset with the name "dataset.csv".
 
 The script trains and evaluates TabNet, Random Forest and MLP on all possible combinations of categorical data.
+
+### Contributors to the code/project (random order)
+1. Mikhail Dmitrienko
+2. Sheshank Shankar
+3. Saurav Prakash
+4. Ishaan Singh
+5. Rohan Sukumaran
+6. Abhishek Singh
+7. Praneeth Vepakomma
