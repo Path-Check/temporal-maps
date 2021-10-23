@@ -25,3 +25,4 @@ The script trains and evaluates TabNet, Random Forest and MLP on all possible co
 5. Rohan Sukumaran
 6. Abhishek Singh
 7. Praneeth Vepakomma
+8. Hrishikesh Kamath
