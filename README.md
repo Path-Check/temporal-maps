@@ -1,4 +1,5 @@
 # Introduction 
+We want to benchmark algorithms for private data synthesis, particularly for spatio-temporal data synthesis. This can have profund impact on multiple areas, especially in public health
 
 ### Usage 
 
